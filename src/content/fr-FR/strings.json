@@ -1,7 +1,7 @@
 {
     "title": {
     "1": "3P0 Droïde",
-    "2": "Droïde série DUM",
+    "2":"Droïde série Reptilator",
     "3": "2-1B Droïde chirurgical",
     "4": "IG-88B Droïde",
     "5": "Sphyrna l'Espèrance",
@@ -54,8 +54,8 @@
     "vehicleTitle": "Tous les véhicules"
     },
     "Checkout": {
-    "checkoutTitle": "Paiements",
-    "shipSectionLabel": "Informations sur l'expédition",
+    "checkoutTitle":"Commandes",
+    "shipSectionLabel":"Informations pour l'expédition",
     "firstNameLabel": "Prénom",
     "lastNameLabel": "Nom",
     "coordinatesLabel": "Coordonnées",
