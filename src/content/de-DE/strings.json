@@ -57,7 +57,7 @@
     "checkoutTitle": "Kasse",
     "shipSectionLabel": "Versand Info",
     "firstNameLabel": "Vorname",
-    "lastNameLabel": "Nachname",
+    "lastNameLabel":"Familienname",
     "coordinatesLabel": "Koordinaten",
     "coordinatesHolder": "0,0,0",
     "sectorLabel": "Sektor/Quadrant",
