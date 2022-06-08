@@ -51,7 +51,8 @@
     },
     "Browse": {
     "droidTitle": "すべてのドロイド",
-    "vehicleTitle": "すべての車両"
+    "vehicleTitle": "すべての車両",
+    "julia": "すべての船"
     },
     "Checkout": {
     "checkoutTitle": "チェックアウト",
