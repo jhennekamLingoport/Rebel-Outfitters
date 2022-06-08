@@ -51,7 +51,8 @@
     },
     "Browse": {
         "droidTitle": "All Droids",
-        "vehicleTitle": "All Vehicles"
+        "vehicleTitle": "All Vehicles", 
+        "julia":"All Ships"
     },
     "Checkout": {
         "checkoutTitle": "Checkout",
